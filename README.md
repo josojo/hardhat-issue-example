@@ -20,7 +20,7 @@ networks: {
     },
   },
 ```
-
+You might have to change to a more recent block, in order to make the example work, as infra is not "archive node"
 
 ## Example
 In order to duplicate, run the following commands:
